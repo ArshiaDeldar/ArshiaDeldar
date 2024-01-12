@@ -2,7 +2,7 @@
         <img align="center" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/hello.gif" />
     </div>
 
-# I'm Abolfazl Haghparasti
+# I'm Arshia Deldar
 
 <!---
 ArshiaDeldar/ArshiaDeldar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
