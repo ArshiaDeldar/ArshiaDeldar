@@ -3,7 +3,7 @@
     </div>
 
 # I'm Arshia Deldar
-![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaDeldar&show_icons=true&theme=highcontrast) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaDeldar&langs_count=8)](https://github.com/al102030/github-readme-stats)
+![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaDeldar&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaDeldar&langs_count=8)](https://github.com/al102030/github-readme-stats)
 
 ![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaDeldar&show_icons=true
 )
