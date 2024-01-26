@@ -13,7 +13,9 @@
                                                                                 [![](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)](#)
 
 
-
+<a target="blank" href="https://profile-counter.glitch.me/devgruu/count.svg">
+            <p align="center">💖 Visited Counts 💖<br><br> <img
+                    src="https://profile-counter.glitch.me/ArshiaDeldar/count.svg" />
 <!---
 ArshiaDeldar/ArshiaDeldar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
