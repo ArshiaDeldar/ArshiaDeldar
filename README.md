@@ -3,6 +3,11 @@
     </div>
 
 # I'm Arshia Deldar
+
+<img align="right" height="250" width="375" alt="" src="https://github.com/AHGh1386/AHGh1386/blob/main/coder.gif" />
+
+<br/>
+
 ![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArshiaDeldar&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArshiaDeldar&langs_count=8)](https://github.com/al102030/github-readme-stats)
