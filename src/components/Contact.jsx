@@ -106,6 +106,7 @@ const Contact = () => {
             {/* Socials */}
             <div className="mt-6 flex gap-3">
               <a
+                target="_blank"
                 href="https://github.com/ArshiaDeldar"
                 aria-label="GitHub"
                 className="flex h-11 w-11 items-center justify-center rounded-xl border border-white/10 bg-white/[0.03] text-gray-400 transition hover:border-blue-500/30 hover:bg-blue-500/10 hover:text-white"

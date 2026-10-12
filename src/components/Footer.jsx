@@ -21,6 +21,7 @@ const Footer = () => {
           {/* Social Links */}
           <div className="flex items-center gap-3">
             <a
+              target="_blank"
               href="https://github.com/ArshiaDeldar"
               aria-label="GitHub"
               className="flex h-10 w-10 items-center justify-center rounded-xl border border-white/10 bg-white/[0.03] text-gray-400 transition duration-300 hover:border-blue-500/30 hover:bg-blue-500/10 hover:text-white"
